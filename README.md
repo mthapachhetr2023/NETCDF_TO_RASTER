@@ -6,15 +6,19 @@ Converts NetCDF data into raster layers
 Automatically organizes raster layers by time
 Allows user input for file paths (no hardcoded paths)
 Ensures output directory exists
+
 **Requirements**
 
 ArcGIS Pro with arcpy module
 Python 3.x
 netCDF4 module
+
 **Installation**
+
 Make sure you have the required dependencies installed:
 pip install netCDF4
 ArcGIS Pro should be installed with arcpy available.
+
 **Usage**
 
 Run the script and provide the required file paths when prompted:
